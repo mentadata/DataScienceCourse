@@ -1,1 +1,1 @@
-Getting introduced to Git
+Getting introduced to Git with initial version of README
