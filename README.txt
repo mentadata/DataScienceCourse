@@ -1,0 +1,1 @@
+Getting introduced to Git
